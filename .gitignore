@@ -1,0 +1,9 @@
+# 쿼리 결과·데이터·인증 정보는 커밋하지 않는다
+*.csv
+*.json
+*.xlsx
+.env
+results/
+
+.DS_Store
+__pycache__/
